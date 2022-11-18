@@ -1,0 +1,54 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}  
+
+body{
+    background-image: url("https://s3.sa-east-1.amazonaws.com/titulares.ar/wp-content/uploads/2022/01/31154522/1643654721_Apps-para-DJ-en-iPhone-y-iPad.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: 100% 100%;
+color:rgb(250, 249, 247);
+width: 1500px;
+height: 1000px;
+}
+
+.quienessomos{
+    background-color: rgb(64, 62, 65);
+    text-align: center;
+
+}
+
+.listas{
+    background-color: rgb(115, 27, 27);
+}
+.tipoletra{
+    font-style: italic;
+}
+.contenido{
+    text-align: center;
+}
+.caja1{
+    background-color: rgb(216, 216, 186);
+        border: solid 1px rgb(81, 13, 13);
+        padding: 5px;
+        display: inline-block;
+        font-size: 80px;
+        font-family: Arial;
+        width: 500px;
+        height: 150px;
+        color:black;
+        
+      }
+
+.caja2{
+    background-color: rgb(232, 232, 164);
+    width: 500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    color:black;
+     
+}
